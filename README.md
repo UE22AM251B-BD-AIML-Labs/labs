@@ -18,3 +18,5 @@ Topics Covered:
 7. Explore topic-based publish-subscribe model for distributed data streaming platform – Apache Kafka
 
 8. Structured Streaming with Spark & Kafka
+
+Installations scripts referenced in `installation guides/` are placed in `installation scripts/`
